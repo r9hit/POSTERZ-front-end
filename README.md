@@ -9,13 +9,26 @@ Functionalities :
 
 For content mangement Strapi is used. You can find Strapi code in 'https://github.com/r9hit/POSTERZ-back-end-strapi/' repository.
 
+### Home Page
 ![Home Page](https://github.com/r9hit/POSTERZ-front-end/blob/main/Screenshots/Screenshot%20(42).png)
-### Screenshot 1
-![Screenshot 1](screenshot42.png)
+![Home Page](https://github.com/r9hit/POSTERZ-front-end/blob/main/Screenshots/Screenshot%20(43).png)
+![Home Page](https://github.com/r9hit/POSTERZ-front-end/blob/main/Screenshots/Screenshot%20(44).png)
 
-### Screenshot 2
-![Screenshot 2](screenshot2.png)
+### Product Detail Page
+![Home Page](https://github.com/r9hit/POSTERZ-front-end/blob/main/Screenshots/Screenshot%20(42).png)
 
-### Screenshot 3
-![Screenshot 3](screenshot3.png)
+### Shop by Category
+![categories](https://github.com/r9hit/POSTERZ-front-end/blob/main/Screenshots/Screenshot%20(52).png)
+![categories](https://github.com/r9hit/POSTERZ-front-end/blob/main/Screenshots/Screenshot%20(51).png)
+
+### Cart
+![Home Page](https://github.com/r9hit/POSTERZ-front-end/blob/main/Screenshots/Screenshot%20(45).png)
+
+### Check out Page
+![Home Page](https://github.com/r9hit/POSTERZ-front-end/blob/main/Screenshots/Screenshot%20(48).png)
+
+### Payment Status
+![Home Page](https://github.com/r9hit/POSTERZ-front-end/blob/main/Screenshots/Screenshot%20(49).png)
+![Home Page](https://github.com/r9hit/POSTERZ-front-end/blob/main/Screenshots/Screenshot%20(50).png)
+
 
