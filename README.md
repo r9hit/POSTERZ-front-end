@@ -10,4 +10,12 @@ Functionalities :
 For content mangement Strapi is used. You can find Strapi code in 'https://github.com/r9hit/POSTERZ-back-end-strapi/' repository.
 
 ![Home Page](https://github.com/r9hit/POSTERZ-front-end/blob/main/Screenshots/Screenshot%20(42).png)
+### Screenshot 1
+![Screenshot 1](screenshot42.png)
+
+### Screenshot 2
+![Screenshot 2](screenshot2.png)
+
+### Screenshot 3
+![Screenshot 3](screenshot3.png)
 
